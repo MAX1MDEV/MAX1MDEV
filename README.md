@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max1mdev&label=Profile%20views&color=0e75b6&style=flat" alt="max1mdev" /> </p>
 
-- 🔭 I’m currently working on [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion)
+- 🔭 I’m currently working on [Tarot Card of the Day](https://github.com/MAX1MDEV/Tarot-Card-of-the-Day)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python, Java, JavaScript**
 
 - 💬 Ask me about **Android, Python, C/C++, C#, JavaScript, PHP, HTML, CSS**
 
