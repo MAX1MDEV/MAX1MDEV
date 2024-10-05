@@ -6,11 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max1mdev&label=Profile%20views&color=0e75b6&style=flat" alt="max1mdev" /> </p>
 
-- 🔭 I’m currently working on Leya Uploader and Free keys (I need some time)
-
-- 🌱 I’m currently learning **Python, Java, JavaScript**
-
-- 💬 Ask me about **Android, Python, C/C++, C#, JavaScript, PHP, HTML, CSS**
+- 🔭 I’m currently working on [RSPK](http://maximdev.h1n.ru/RSPK/) and [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion)
 
 - ⚡ Fun fact **I'm straight**
 
