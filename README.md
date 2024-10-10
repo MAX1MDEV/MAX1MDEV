@@ -13,7 +13,8 @@
 <p align="left">
 <a href="https://discordapp.com/users/390102465586003978" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="maximdev"/></a>
 </p>
-
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows" />
