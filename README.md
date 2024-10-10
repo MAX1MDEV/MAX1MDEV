@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MAXIMDEV)](https://git.io/typing-svg) </h1>
+[![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEiJx3pJc3VF1IilDrrkWThwLz9fc4OorboVwvf5AI7YYQSOQCvvPZ1kKuAozxtJ1bt8Jt3KYMDdQv1YhKWk8sW_OWO6bNQtP_oDOtps0C3ZWTyYhkfGLWb54vj027CG9SoJN-8dZu2k4BGs22FGwOO-rOQnnbLuvhNU3J1uVm_XAKwfptI-jWkLgu__2r4)](https://github.com/MAX1MDEV)
+<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MAXIMDEV" alt="Typing SVG"/></a></h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
