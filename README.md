@@ -20,8 +20,8 @@
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows" />
 </p>
 
+![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max1mdev&theme=solarized_dark)
-![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max1mdev&theme=solarized_dark)
