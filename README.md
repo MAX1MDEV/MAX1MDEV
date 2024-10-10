@@ -2,8 +2,11 @@
 <h1 align="center">Hi 👋, I'm MAX1MDEV</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&theme=dark)](https://git.io/streak-stats)
-
+<p align="right">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&theme=dark" alt="GitHub Streak"/>
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max1mdev&label=Profile%20views&color=0e75b6&style=flat" alt="max1mdev" /> </p>
 
