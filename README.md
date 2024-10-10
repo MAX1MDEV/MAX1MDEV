@@ -1,18 +1,13 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEiJx3pJc3VF1IilDrrkWThwLz9fc4OorboVwvf5AI7YYQSOQCvvPZ1kKuAozxtJ1bt8Jt3KYMDdQv1YhKWk8sW_OWO6bNQtP_oDOtps0C3ZWTyYhkfGLWb54vj027CG9SoJN-8dZu2k4BGs22FGwOO-rOQnnbLuvhNU3J1uVm_XAKwfptI-jWkLgu__2r4)](https://github.com/MAX1MDEV)
+
 <h1 align="center">Hi 👋, I'm MAX1MDEV</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
-<p align="right">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&theme=dark" alt="GitHub Streak"/>
-  </a>
-</p>
+| Left Section | Right Section |
+|--------------|---------------|
+| 🔭 I’m currently working on [RSPK](http://maximdev.h1n.ru/RSPK/) and [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion) <br> ⚡ Fun fact **I'm straight** | <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&theme=dark" alt="GitHub Streak"/></a> |
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max1mdev&label=Profile%20views&color=0e75b6&style=flat" alt="max1mdev" /> </p>
-
-- 🔭 I’m currently working on [RSPK](http://maximdev.h1n.ru/RSPK/) and [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion)
-
-- ⚡ Fun fact **I'm straight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
