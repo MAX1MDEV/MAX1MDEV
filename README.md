@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MAXIMDEV)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm MAX1MDEV</h1>
+
+<h1 align="center">Hi 👋, I'm [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=MAXIMDEV)](https://git.io/typing-svg) </h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
