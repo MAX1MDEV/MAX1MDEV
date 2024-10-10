@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,postman,php,html,vscode,visualstudio,sublime,heroku,git,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows" />
 </p>
 
 
