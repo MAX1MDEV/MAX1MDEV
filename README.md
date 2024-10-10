@@ -1,5 +1,5 @@
 <a href="https://github.com/MAX1MDEV">
-    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiJx3pJc3VF1IilDrrkWThwLz9fc4OorboVwvf5AI7YYQSOQCvvPZ1kKuAozxtJ1bt8Jt3KYMDdQv1YhKWk8sW_OWO6bNQtP_oDOtps0C3ZWTyYhkfGLWb54vj027CG9SoJN-8dZu2k4BGs22FGwOO-rOQnnbLuvhNU3J1uVm_XAKwfptI-jWkLgu__2r4" width="1920" height="226" alt="MasterHead">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiJx3pJc3VF1IilDrrkWThwLz9fc4OorboVwvf5AI7YYQSOQCvvPZ1kKuAozxtJ1bt8Jt3KYMDdQv1YhKWk8sW_OWO6bNQtP_oDOtps0C3ZWTyYhkfGLWb54vj027CG9SoJN-8dZu2k4BGs22FGwOO-rOQnnbLuvhNU3J1uVm_XAKwfptI-jWkLgu__2r4" height="200" alt="MasterHead">
 </a>
 
 
