@@ -25,4 +25,4 @@
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max1mdev&theme=solarized_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max1mdev)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&theme=dark)](https://git.io/streak-stats)
