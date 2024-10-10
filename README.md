@@ -19,8 +19,9 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows" />
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=max1mdev&show_icons=true&locale=en" alt="max1mdev" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=max1mdev&show_icons=true&locale=en&layout=compact" alt="max1mdev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&" alt="max1mdev" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MAX1MDEV)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1mdev&theme=solarized_dark)
+![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max1mdev&theme=solarized_dark)
+![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max1mdev&theme=solarized_dark)
+![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=max1mdev&theme=solarized_dark)
+![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max1mdev&theme=solarized_dark)
