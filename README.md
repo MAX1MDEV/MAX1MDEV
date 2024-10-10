@@ -1,5 +1,5 @@
 <a href="https://github.com/MAX1MDEV">
-    <img src="images/maximdev.jpg" alt="MasterHead">
+    <img src="image/maximdev.jpg" alt="MasterHead">
 </a>
 
 <h1 align="center">Hi 👋, I'm MAX1MDEV</h1>
