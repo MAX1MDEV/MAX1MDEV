@@ -3,18 +3,11 @@
 <h1 align="center">Hi 👋, I'm MAX1MDEV</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max1mdev&label=Profile%20views&color=0e75b6&style=flat" alt="max1mdev" /> </p>
-<img align="right" alt="Coding" width=350 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>🔭 I’m currently working on <a href="http://maximdev.h1n.ru/RSPK/">RSPK</a> and <a href="https://github.com/MAX1MDEV/FreeruCompanion">FreeruCompanion</a></p>
-    <p>⚡ Fun fact <b>I'm straight</b></p>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&theme=dark" alt="GitHub Streak"/>
-    </a>
-  </div>
-</div>
+<img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on [RSPK](http://maximdev.h1n.ru/RSPK/) and [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion)
+
+- ⚡ Fun fact **I'm straight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
