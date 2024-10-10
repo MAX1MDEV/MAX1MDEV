@@ -1,7 +1,8 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEiJx3pJc3VF1IilDrrkWThwLz9fc4OorboVwvf5AI7YYQSOQCvvPZ1kKuAozxtJ1bt8Jt3KYMDdQv1YhKWk8sW_OWO6bNQtP_oDOtps0C3ZWTyYhkfGLWb54vj027CG9SoJN-8dZu2k4BGs22FGwOO-rOQnnbLuvhNU3J1uVm_XAKwfptI-jWkLgu__2r4)](https://github.com/MAX1MDEV)
 <h1 align="center">Hi 👋, I'm MAX1MDEV</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
-<img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&theme=dark)](https://git.io/streak-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max1mdev&label=Profile%20views&color=0e75b6&style=flat" alt="max1mdev" /> </p>
@@ -25,4 +26,3 @@
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max1mdev&theme=solarized_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max1mdev&theme=dark)](https://git.io/streak-stats)
