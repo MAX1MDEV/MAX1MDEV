@@ -6,7 +6,7 @@
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; padding-right: 20px;">
     <p>🔭 I’m currently working on <a href="http://maximdev.h1n.ru/RSPK/">RSPK</a> and <a href="https://github.com/MAX1MDEV/FreeruCompanion">FreeruCompanion</a></p>
-    <p>⚡ Fun fact **I'm straight**</p>
+    <p>⚡ Fun fact <b>I'm straight</b></p>
   </div>
   <div style="flex: 1;">
     <a href="https://git.io/streak-stats">
