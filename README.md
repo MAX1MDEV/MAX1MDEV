@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/390102465586003978" target="_blank">
-    <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Ищу%20девушку%20для%20интернет%20лаф&useDisplayName=true" alt="Discord Presence"/>
+    <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Ищу%20девушку%20для%20интернет%20лаф...&useDisplayName=true" alt="Discord Presence"/>
 </a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
