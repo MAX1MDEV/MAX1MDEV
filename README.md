@@ -7,7 +7,7 @@
 
 - 👨‍💻 Developer of the user directed web-project - [RSPK](https://maximdev.ru/RSPK)
 
-- 🔭 I’m currently working on [RSPK](http://maximdev.ru/RSPK) and [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion)
+- 🔭 I’m currently working on NetherCord and [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion)
 
 - ⚡ Fun fact **I'm straight**
 
