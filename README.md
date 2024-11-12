@@ -14,9 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/390102465586003978" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/390102465586003978?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...&waveColor=FF597B&waveSpotifyColor=FF597B" alt="Discord Presence"/>
-    </a>
-<a href="https://discord.com/users/390102465586003978" target="_blank">
     <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else" alt="Discord Presence"/>
 </a>
 <h3 align="left">Languages and Tools:</h3>
