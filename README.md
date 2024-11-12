@@ -26,6 +26,7 @@
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max1mdev&theme=solarized_dark)
+![[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pugacfnz6vopv5z1qgtwq98fp&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pugacfnz6vopv5z1qgtwq98fp&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)]]
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAX1MDEV/MAX1MDEV/output/github-contribution-grid-snake-dark.svg">
