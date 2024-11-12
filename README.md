@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/390102465586003978" target="_blank">
-    <img src="https://lanyard.kyrie25.dev/api/390102465586003978" alt="Discord Presence"/>
+    <img src="https://lanyard.kyrie25.dev/api/390102465586003978?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)" alt="Discord Presence"/>
 </a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
