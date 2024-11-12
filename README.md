@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEjw8-XZqx5YVMWGmmNSvZAMHRZqb-G9aAN2HBoGmMf2m1f7A-5AQYhKqsyYJ56eEPSccP0OCy8W0ZbrSkY-T3Whp2_Y_POdclSN09YO_tnj0M7O8-txH-jiydvcmExvnMHFqf_AAFq_CFyyMPefB07qt6iPqGjFgr6L8vycZ3a3qZWRYSmG57xuOr0pp0k)](https://github.com/MAX1MDEV)
 
-<h1 align="center">Hi 👋, I'm MAX1MDEV</h1>
+<h1 align="center">Hi 👋, I'm MaximDev</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max1mdev&label=Profile%20views&color=0e75b6&style=flat" alt="max1mdev" /> </p>
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
