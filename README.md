@@ -4,9 +4,7 @@
 <h3 align="center">A passionate backend developer from Russia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max1mdev&label=Profile%20views&color=0e75b6&style=flat" alt="max1mdev" /> </p>
 <img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<a href="https://discord.com/users/390102465586003978" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/390102465586003978?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
-</a>
+
 - 👨‍💻 Developer of the user directed web-project - [RSPK](https://maximdev.ru/RSPK)
 
 - 🔭 I’m currently working on NetherCord and [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion)
@@ -15,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/390102465586003978" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="maximdev"/></a>
+<a href="https://discord.com/users/390102465586003978" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/390102465586003978?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
+</a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows&perline=8" />
