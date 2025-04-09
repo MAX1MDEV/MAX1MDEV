@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![MaximDev](https://raw.githubusercontent.com/MAX1MDEV/MAX1MDEV/main/assets/telegram.svg)](https://t.me/veygirg)
+  [![MaximDev](https://raw.githubusercontent.com/MAX1MDEV/MAX1MDEV/main/assets/telegram.png)](https://t.me/veygirg)
+
 
 
 </p>
