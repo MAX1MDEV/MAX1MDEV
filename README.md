@@ -27,7 +27,7 @@
 <h3 align="left" style="margin-top: 20px;">Infrastructure:</h3>
 <p align="left" style="display: flex; align-items: center;">
   <a href="https://railway.app" target="_blank">
-    <img src="assets/railway.svg" alt="Railway" width="48" height="48">
+    <img src="assets/railway.svg" alt="Railway" width="3733" height="1024">
   </a>
 </p>
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1mdev&theme=solarized_dark)
