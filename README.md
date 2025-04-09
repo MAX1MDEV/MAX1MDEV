@@ -23,9 +23,13 @@
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,vue,tailwind,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,obsidian,git,windows&perline=8" />
-    <img src="assets/railway.svg" alt="Telegram" width="24" height="24">
 </p>
-
+<h3 align="left" style="margin-top: 20px;">Infrastructure:</h3>
+<p align="left" style="display: flex; align-items: center;">
+  <a href="https://railway.app" target="_blank">
+    <img src="assets/railway.svg" alt="Railway" width="48" height="48">
+  </a>
+</p>
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=max1mdev&theme=solarized_dark)
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max1mdev&theme=solarized_dark)
