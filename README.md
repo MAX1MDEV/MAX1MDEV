@@ -13,10 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![MaximDev](assets/telegram.svg)](https://t.me/veygirg)
-
-
-
+  <a href="https://t.me/veygirg" target="_blank">
+  <img src="assets/telegram.svg" alt="Telegram">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
