@@ -20,10 +20,9 @@
 </p>
 <br>
 <h3 align="left" style="margin-top: 1px; margin-bottom:1px;">Languages and Tools:</h3>
-
+<img src="https://devicons.railway.app/railway" alt="Railway" width="48" height="48">
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,vue,tailwind,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,obsidian,git,windows&perline=8" />
-    <img src="https://devicons.railway.app/railway" alt="Railway" width="48" height="48">
 </p>
 
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1mdev&theme=solarized_dark)
