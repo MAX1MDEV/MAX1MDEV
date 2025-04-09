@@ -22,7 +22,7 @@
 <h3 align="left" style="margin-top: 1px; margin-bottom:1px;">Languages and Tools:</h3>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,vue,docker,mongodb,postgresql.tailwind,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,obsidian,git,windows&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,vue,docker,mongodb,postgresql,tailwind,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,obsidian,git,windows&perline=8" />
 </p>
 <h3 align="left" style="margin-top: 20px;">Infrastructure:</h3>
 <p align="left" style="display: flex; align-items: center;">
