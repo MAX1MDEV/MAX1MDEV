@@ -14,9 +14,7 @@
   <a href="https://t.me/veygirg" target="_blank">
   <img src="assets/telegram.svg" alt="Telegram" width="48" height="48">
 </a>
-
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows&perline=8" />
