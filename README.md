@@ -10,13 +10,13 @@
 - 🔭 I’m currently working on NetherCord and [FreeruCompanion](https://github.com/MAX1MDEV/FreeruCompanion)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex; align-items: center;">
   <a href="https://t.me/veygirg" target="_blank">
-  <img src="assets/telegram.svg" alt="Telegram" width="48" height="48">
-</a>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=discord&perline=8" />
-</p>
+    <img src="assets/telegram.svg" alt="Telegram" width="48" height="48">
+  </a>
+  <a href="https://discord.com/users/390102465586003978" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&perline=8" alt="Discord" width="48" height="48" style="margin-left: 10px;">
+  </a>
 </p>
 <br>
 <h3 align="left" style="margin-top: 1px; margin-bottom:1px;">Languages and Tools:</h3>
