@@ -23,7 +23,7 @@
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,vue,tailwind,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,obsidian,git,windows&perline=8" />
-    <img src="assets/railway.svg" alt="Telegram" width="48" height="48">
+    <img src="assets/railway.svg" alt="Telegram" width="24" height="24">
 </p>
 
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1mdev&theme=solarized_dark)
