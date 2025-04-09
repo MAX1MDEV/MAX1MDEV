@@ -15,7 +15,7 @@
   <img src="assets/telegram.svg" alt="Telegram" width="48" height="48">
 </a>
 </p>
-<h3 align="left" style="margin-top: 10px; margin-bottom: 5px;">Languages and Tools:</h3>
+<h3 align="left" style="margin-top: 1px; margin-bottom:1px;">Languages and Tools:</h3>
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows&perline=8" />
