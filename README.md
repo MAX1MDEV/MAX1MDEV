@@ -22,7 +22,7 @@
 <h3 align="left" style="margin-top: 1px; margin-bottom:1px;">Languages and Tools:</h3>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,kotlin,androidstudio,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,ai,vue,tailwind,nodejs,figma,js,postman,php,html,css,vscode,visualstudio,sublime,heroku,git,windows&perline=8" />
 </p>
 
 ![MAXIMDEV](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max1mdev&theme=solarized_dark)
